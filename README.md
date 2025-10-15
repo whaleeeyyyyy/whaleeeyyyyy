@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-I'm a Petroleum Engineering grad turned developer. I love building full-stack apps, AI tools, and sports matchmaking platforms.
+I'm a Petroleum Engineering grad turned developer. I love building full-stack apps.
 
 ## 🛠️ Tech & Tools
 
@@ -13,7 +13,11 @@ I'm a Petroleum Engineering grad turned developer. I love building full-stack ap
 
 - [Sabah Road Care](https://github.com/WeallfearniusJustin/sabah-road-care) – Community road reporting app
 - [DocuMate AI](https://github.com/WeallfearniusJustin/documate-ai) – AI-powered document assistant
-- [SportsConnect](https://github.com/WeallfearniusJustin/sportsconnect) – Gamified sports matchmaking app
+
+## 🌟 Featured In
+
+- 📰 [Borneo Post Interview](link-to-article) – Talked about my work on Sabah Road Care and tech projects.
+  ![Alt text](https://www.theborneopost.com/newsimages/2025/10/9e1369e4-1f43-44b6-baeb-11dc6213d69d.jpeg)
 
 ## 📫 Connect with me
 
