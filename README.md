@@ -1,6 +1,6 @@
 # Hi, I'm Weallfearnius "William" Justin 👋
 
-I'm a Petroleum Engineering grad turned developer. I love building full-stack apps.
+I'm a Petroleum Engineering grad turned developer. I love building full-stack apps and I especially love playing sports.
 
 ## 🛠️ Tech & Tools
 
