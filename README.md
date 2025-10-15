@@ -22,7 +22,4 @@ I'm a Petroleum Engineering grad turned developer. I love building full-stack ap
 
 ## 📫 Connect with me
 
-- LinkedIn: [link](https://linkedin.com/in/your-profile)
-- Twitter: [link](https://twitter.com/your-profile)
-
-![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WeallfearniusJustin&show_icons=true&theme=radical)
+- LinkedIn: [link](www.linkedin.com/in/whaleeeyyyyy)
