@@ -1,4 +1,4 @@
-# Hi, I'm Justin 👋
+# Hi, I'm Weallfearnius "William" Justin 👋
 
 I'm a Petroleum Engineering grad turned developer. I love building full-stack apps.
 
