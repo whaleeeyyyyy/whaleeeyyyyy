@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Justin 👋
 
-<!--
-**whaleeeyyyyy/whaleeeyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Petroleum Engineering grad turned developer. I love building full-stack apps, AI tools, and sports matchmaking platforms.
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, Tailwind CSS
+- Backend: FastAPI, Node.js
+- Database: Supabase, PostgreSQL
+- Deployment: Vercel, Docker
+
+## 🌟 Featured Projects
+
+- [Sabah Road Care](https://github.com/WeallfearniusJustin/sabah-road-care) – Community road reporting app
+- [DocuMate AI](https://github.com/WeallfearniusJustin/documate-ai) – AI-powered document assistant
+- [SportsConnect](https://github.com/WeallfearniusJustin/sportsconnect) – Gamified sports matchmaking app
+
+## 📫 Connect with me
+
+- LinkedIn: [link](https://linkedin.com/in/your-profile)
+- Twitter: [link](https://twitter.com/your-profile)
+
+![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WeallfearniusJustin&show_icons=true&theme=radical)
