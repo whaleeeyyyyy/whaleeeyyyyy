@@ -2,7 +2,7 @@
 
 I'm a Petroleum Engineering grad turned developer. I love building full-stack apps and I especially love playing sports.
 
-# Check Out My Portfolio: https://whaleeeyyyyy.github.io/my-own-portfolio/
+## Check Out My Portfolio: https://whaleeeyyyyy.github.io/my-own-portfolio/
 
 ## 🛠️ Tech & Tools
 
